@@ -361,7 +361,14 @@ section h3.section-subheading {
     margin: 0 auto;
     max-width: 400px;
 }
-
+.link {
+    text-decoration: none !important;
+    color:#777777;
+}
+.link:hover {
+    text-decoration: none !important;
+    color:#777777;
+}
 #portfolio .portfolio-item .portfolio-link .portfolio-hover {
     position: absolute;
     width: 100%;
